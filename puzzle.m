@@ -1,3 +1,4 @@
+%把pic_cut.py运行后生成的‘bill.jpg’加入路径
 A = imread('bill.jpg');
 A_1 = im2double(A(:,:,1));
 A_2 = im2double(A(:,:,2));
