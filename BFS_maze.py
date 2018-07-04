@@ -1,4 +1,5 @@
 #BFS宽度优先搜索走迷宫
+#请把'test.jpg'加入路径中
 import cv2
 import numpy as np
 from queue import Queue
